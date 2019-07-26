@@ -6,6 +6,9 @@ public class HelloWorld{
 	public void test(){
 		int i=10;
 		i+=20;
+
+		k=5;
 	}
+
 	
 }
